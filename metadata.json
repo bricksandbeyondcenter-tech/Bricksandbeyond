@@ -1,0 +1,6 @@
+{
+  "name": "Bricks and Beyond",
+  "description": "Welcome check-in, badges progress and workshop dashboard for the Bricks and Beyond educational play center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
